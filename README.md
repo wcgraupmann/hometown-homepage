@@ -1,4 +1,4 @@
-This project is intended to help me practice learning fundamentals of web development
+This project was createed to help me practice learning the fundamentals of web development
 
 To-Do:
 - make website responsive
